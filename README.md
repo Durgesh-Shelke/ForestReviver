@@ -1,1 +1,3 @@
 # ForestReviver
+
+*ForestReviver* is an autonomous rover system designed to tackle deforestation by enabling efficient, ecologically aware reforestation with minimal human intervention. The robot combines rugged terrain mobility using a rocker-bogie suspension, intelligent navigation using GPS and LiDAR, and environmental analysis via advanced sensors. It plants seeds using a lead screw–based soil auger drill and follows a spiral path to systematically cover areas. The rover features real-time object detection, soil and weather analysis, and a manual override system, offering a robust solution for sustainable reforestation in diverse environments.
